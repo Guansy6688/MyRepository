@@ -22,3 +22,4 @@ Application step:
 4. Click the 'Show' button in the menu item will show the pair with biggest spanning ratio.
 5. Press 'Clear' button can clean the canvas (but t will not be changed).
 6. Click the existed point will delete that point and all the edges will clear until press 'Compute' again to have a new spanner graph (t remains). 
+# MyRepository
